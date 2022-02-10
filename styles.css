@@ -1,0 +1,84 @@
+    body {
+        background-color: #b4ff6e;
+        color: #000;
+        font-size: 16px;
+        font-weight: normal;
+        font-family: "Playfair Display", serif;
+        }
+    
+    .page {
+        width: auto;
+        padding: 15px;
+        }
+
+    h2, h4 {
+        font-style: italic;
+        margin: 0px;
+        padding: 0px;
+        }
+    
+    a   {
+        text-decoration: none;
+        }
+
+    p   { 
+        text-indent: 20px;
+        margin: 0px;
+        margin-bottom: 5px;
+        padding: 0px;
+        }
+
+    .color_Aquamarine {
+        background: #8bf0fd;
+        padding: 15px;
+        border-radius: 10px;
+        }
+    
+    .avatar {
+        max-width: 150px;
+        border-radius: 10px;
+        margin-right: 10px;
+        float:left;
+        }
+    
+    h2  {
+        color:#e195eb;
+        }
+        
+    .color_Aquamarine a {
+        color:#cc6dd8
+        }
+    
+    .a {
+        text-align: right;
+        }
+
+    a:hover {
+        color: #00FF7F;
+        text-decoration: underline;
+        }
+
+    a:hover img {
+        border: 3px solid #00FF7F;
+        }
+
+    .color_SandyBrown {
+        background: #fff461;
+        padding: 15px;
+        border-radius: 10px;
+        }
+    
+   .color_SandyBrown h4 {
+        color:#FF4500;
+        }
+        
+   .picture_book {
+        max-width: 150px;
+        border-radius: 5px;
+        margin-right: 10px;
+        float:left;
+        }
+    
+    .Text {
+        min-height: 207px;
+        }
